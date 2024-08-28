@@ -18,7 +18,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t Dockerfile .
+          docker build -t db .
 
       - name: Run Docker container and generate static files
         run: |
