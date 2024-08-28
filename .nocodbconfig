@@ -1,0 +1,6 @@
+{
+  "deployment": {
+    "type": "github_pages",
+    "repository": "FranScarvaci/nocoDB-edipo"
+  }
+}
