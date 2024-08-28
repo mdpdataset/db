@@ -16,7 +16,7 @@ RUN cp $GOPATH/bin/litestream /usr/src/lt
 
 ###########
 # Builder
-###########
+########### 
 FROM node:18.19.1-alpine as builder
 WORKDIR /usr/src/app
 
